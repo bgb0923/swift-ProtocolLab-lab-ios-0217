@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0CEF7A778345B1D8E758AAF3 /* Pods_ProtocolsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3837E23674548C3306CD2C4D /* Pods_ProtocolsTests.framework */; };
 		11B8EFE5EE142BCD2822739D /* Pods_Protocols.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 473C731F55AACC4CC2DA28FE /* Pods_Protocols.framework */; };
+		562038121E5CC43D001587A4 /* ShipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE61D5920A800FDFBEE /* ShipTests.swift */; };
 		7DF33B1C1D58E1480071BA68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B1B1D58E1480071BA68 /* AppDelegate.swift */; };
 		7DF33B1E1D58E1480071BA68 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B1D1D58E1480071BA68 /* ViewController.swift */; };
 		7DF33B211D58E1480071BA68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DF33B1F1D58E1480071BA68 /* Main.storyboard */; };
@@ -18,7 +19,6 @@
 		7DF33B3C1D58FF880071BA68 /* BankVault.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B3B1D58FF880071BA68 /* BankVault.swift */; };
 		7DF33B401D59067B0071BA68 /* BankVaultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DF33B3F1D59067B0071BA68 /* BankVaultTests.swift */; };
 		7DFFECE51D59145100FDFBEE /* Ships.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE41D59145100FDFBEE /* Ships.swift */; };
-		7DFFECE71D5920A800FDFBEE /* ShipTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DFFECE61D5920A800FDFBEE /* ShipTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -371,7 +371,7 @@
 			files = (
 				7DF33B401D59067B0071BA68 /* BankVaultTests.swift in Sources */,
 				7DF33B311D58E1480071BA68 /* ProtocolsTests.swift in Sources */,
-				7DFFECE71D5920A800FDFBEE /* ShipTests.swift in Sources */,
+				562038121E5CC43D001587A4 /* ShipTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
